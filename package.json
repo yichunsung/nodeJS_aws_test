@@ -1,23 +1,16 @@
 {
-  "name": "nodejs_aws_test",
+  "name": "node_model",
   "version": "1.0.0",
-  "description": "Test",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yichunsung/nodeJS_aws_test.git"
-  },
-  "author": "YCS",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/yichunsung/nodeJS_aws_test/issues"
-  },
-  "homepage": "https://github.com/yichunsung/nodeJS_aws_test#readme",
   "dependencies": {
     "express": "^4.16.3",
-    "python-shell": "^0.5.0"
+    "python-shell": "^0.5.0",
+    "r-script": "0.0.3"
   }
 }
